@@ -1,0 +1,276 @@
+“You are a cost. Eliminate wastes first, for that is the only way for you to develop your potential.”
+
+WASTES HIDE SO START BY DISCLOSING ALL OF YOUR MISTAKES
+
+DO NOT HIDE DEFECTS
+
+The creator of the Toyota Production System (also know as the Toyota System), Taiichi Ohno appeared intimidating to every one, including myself. In fact, he was a truly compassionate man whose words were always correct. He was always full of a radiance that is unique to those whose level of dedication toward creating innovative methods is extremely high.
+
+One of the characteristics of the Toyota System is elimination of wastes in an absolute manner, and there are many categories of wastes to be removed. Most importantly, eliminating defects is the key strategy for improving the production cost, quality, and delivery of finished products.
+
+In the 1950’s, when the Toyota System was first practiced in production, Ohno was on everybody's back and persistently ordered workers to present defects in front of everybody’s eyes. When defects occurred, the shop floor workers had a habit of storing them away in places where nobody could easily find them. This was because defects often led supervisors to question the skills of the responsible worker, which was the main reason why Ohno’s orders remained unrealized on the shop floor.
+
+One day, Ohno stepped into the shop floor. Workers were always intimated by him and continued to perform their jobs without making eye contact.
+
+Ohno suddenly jumped into the production line and asked with anger, “What in the world are these?”
+
+The line leader approached Ohno to find that he was pointing his finger at the pile of work-in-progress items in the corner. Ohno began to scold the shop floor.
+
+“These are all defects. Why are these all hidden away? I told you so many times to place the defects where everyone can see and stop production entirely. ”
+
+The line leader was apologetic, but Ohno never liked hearing excuses. We never figured out how he got the strength to lift up all the defects and start throwing them into the hallway, until they were all gone from his arms.
+
+One of the defects even hit the head of the line leader but Ohno did not care about that at all.
+
+He stressed again, screaming, “Never hide defects! Bring them out into the hallway so that everyone can see.”
+
+After that, he left the shop floor. The line leader was left standing in front of his workers, which must have been quite embarrassing. If this still happens these days then it must have been a serious issue in the work place back then, though the shop floors at the time were much more roughly-mannered. I still remember the intensity of Ohno in this kind of situation quite vividly.
+
+IT IS WASTEFUL TO CORRECT DEFECTS
+
+Why was Ohno so fixated on the idea of disclosing defects so that everyone could see them? When a mistake occurs, or defect in this case, humans have a tendency to hide it away and try to resolve it later. They do not go out of their ways to stop the entire production line or process so that it can be dealt with immediately upon discovery. That is the main reason why the true cause of defects is never discovered. In this manner, the same defect continues to emerge, as no effective solutions can be formulated to eliminate the cause. This is a huge waste.
+
+In addition, it is essentially a waste to correct defects later on. If defects are found ona given day and solutions cannot be formulated until the next day, then the time between the discovery of the defects and a solution is simply wasted. In this case, a whole day. This is the very reason why Ohno demanded to disclose all defects, so that workers had an opportunity to question themselves about why such defects occurred in the first place and discovered the true cause. The true cause lies beyond what can be seen on the surface and is the fundamental element that leads to mistakes.
+
+He also stressed the importance of conducting continuous improvement repeatedly, with the involvement of every worker, so that the same mistakes could never occur again. For example, say that a defect was made by assembling the wrong components ina certain assembly process. In such a case, the defect should not be hidden away but presented to everyone on the shop floor so that everyone can ask why the mistake was made and improve the process by continuous improvement, in a rather casual manner. Ohno strongly believed that a company could grow tremendously if such an effort was systemized and carried out at all times on the shop floor.
+
+Many unexpected things can still happen to the actual place of work (gemba) no matter how much continuous improvement effort is made. For the shop floor environment, as far as human workers are concerned, certain conflicts continue to occur as result of the gap between the levels of expertise among workers. Even an expert worker can still make mistakes if he is feeling sick or simply in a bad mood. As far as machinery is concerned, no matter how much attention is given to its safety, machinery breakdown is still beyond our control. You may also find defects among the items that were delivered from your suppliers.
+
+These are the reasons why the shop floor is often considered excellent as long as “the first run rate” scores around 97-98%. The first run rate determines the ratio of defect-free products against the defects, after a quality inspection. In this case, the waste associated with correcting defects is limited to only two to three percent of production.
+
+In practice, even the best manufacturer in the world finds it extremely difficult to yield a first run rate of 100%. Some people joke around saying that the only way to achieve a zero-defect goal in production is to not run production lines at all.
+
+In fact, many factories permit a certain percentage of defects to be produced and believe it to be unrealistic to achieve zero-defects, while at the same time promising 100% defect free products to consumers. What sets Ohno separate from these factories is that he denied these assumptions and strongly believed that it was realistic to do so. Consequently, he made sure that these 2 principles were in place to achieve a zero-defect goal:
+
+(1) Visualization
+
+When defects are found, the entire production line is stopped. Defects are then brought to the foreground so that every worker can learn from them.
+
+(2) Repeat “Why?” 5 times
+
+The true cause of defects must be pursued thoroughly and elimination of such a cause is carried out by continuous improvement.
+
+Visualization has become one of the standard principles in the Toyota System. However, it was extremely challenging to implement Visualization when the Toyota System first came into practice. This was because the successful implementation of Visualization had to remove any fear from the workers; the fear that bringing defects to the foreground placed blame directly onto the workers responsible for them. For this reason, workers often tended to deal with their mistakes on their own. However, neither mistakes nor defects could have been eliminated in this manner.
+
+Ohno successfully inculcated the Visualization principle in the shop floor workers to make sure that defects and mistakes became a collective wealth among them all, so that workers became capable of formulating solutions to remove wastes more effectively. At the same time, he was also committed to teaching workers to maintain a high level of awareness toward cost-management. I will explain this in detail in the next section.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+In the Toyota System, processes build the quality into a product. Product quality is never enhanced by tightening standards used for an inspection. Inspections serve only one purpose; rejecting defects so that they do not reach the end-users. Every time a defect occurs you must repeatedly ask yourself “Why?” and eliminate the true cause. By doing that persistently your ability to produce only good products will be enhanced. That is what makes it true to say that processes build the quality into a product.
+
+COLLECTING SMALL PARTS LETS YOU IDENTIFY BIGGER WASTES
+
+WHAT WOULD YOU DO IF IT WAS MONEY?
+
+“Hey you, Mr. A. Carry this box and follow me around,” Ohno ordered Mr. A, while he was conducting continuous improvement activities on the shop floor in Toyota. Ohno began wandering about the floor before he even finished the sentence. Mr. A picked up a wooden part box he found nearby and started following Ohno.
+
+In a situation like most people would ask to find out where they were being led to, however Mr. A wanted to avoid confrontation with Ohno as he knew how intimidating Ohno could be. Ohno continued to roam around the shop floor while studying every aspect of the factory. Workers on the shop floor continued their work without making eye contact with Ohno, as usual.
+
+It was a strange scene for everyone to observe as Mr. A following Ohno ever so quietly. It was also a funny scene, in a way, but nobody dared to either laugh at him or ask Mr. A what was going on. Mr. A continued to follow Ohno without uttering a word. They spent a good amount of time circling the entire factory.
+
+Ohno finally turned to him, upon returning to the starting point, and asked, “Mr. A, didn't you realize that there were many components lying on the floor?”
+
+“Yes. I did notice some components lying on the floor,” Mr. A replied.
+
+“If you did, why did you not pick them up?” Ohno asked again.
+
+“You just told me to follow you around. You never told me to pick up those components,” Mr. A replied.
+
+“Shame on you! Go around the factory again and pick them up!” Ohno instructed him with anger.
+
+Mr. A hurried back down their trail thru the factory and picked up the components, placing them into the wooden box. He told himself that he should have been told to pick them up in the first place but he could never rebel against Ohno. His colleagues saw Mr. A picking up the components and asked what was going on. He replied by saying “Tam just doing what I was told to do by Ohno.” All they could do to help Mr. A was show him their sympathy. “Good luck, Mr. A...”
+
+Mr. A went back to where Ohno was standing and showed him the wooden box. Ohno picked up one of the components from the box and asked Mr. A,
+
+“Do you have any idea how much these components are costing us?”
+
+Unfortunately, Mr. A was not knowledgeable about the price of each component at the time.
+
+“I have no idea,” he replied.
+
+“I see. How about I tell you the cost for these items you just picked up? I want you to calculate the total cost based on that,” Ohno told Mr. A,
+
+Mr. A took out his abacus and started punching in numbers (electronic calculators did not exist at the time.) What was so impressive was that Ohno had remembered the exact prices, including cents, for every item in the large box of components. However, what was more striking was the result of the calculation. It was quite shocking to see how small bolts and screws could cost the factory such a large amount of money. Usually, these items were ignored as they only represented a fraction of the total cost on their own.
+
+“Were you surprised to learn how much money we are wasting?” Ohno asked Mr. A.
+
+“Yes indeed. It opened my eyes, Mr. A replied.
+
+“I understand. Everyone ignores these small items because they are insignificant, but what would you do if they were money? I am sure you would pick them up before anyone else. Imagine how much money you could gather up at the end,” Ohno told Mr. A.
+
+Ohno did not say anything more about it to Mr. A. This experience became the most important lesson that Mr. A learned in his career.
+
+There are many other shop floor episodes like this one. I, myself, was trained to be cost-conscious in this manner by Ohno.
+
+VISUALIZATION OF COST HELPS YOU MANAGE UNNECESSARY COST
+
+The Toyota System never plays a guessing game in determining the cost of producing certain items. The cost per product can be calculated in advance by taking into consideration the price of each component and other expenses, such as labor, storage spaces, and so on. Therefore, any reduction in cost can be easily witnessed as a result of continuous improvements in the production processes.
+
+In order for Ohno to teach workers this lesson of becoming cost-conscious, sometimes drastic, or rather unique, methods were often used. One of the methods that he used was being able to recite from memory the exact prices for each and every item used in the factory, which no one else in the factory could do at the time.
+
+The scenario of Mr. A, who followed Ohno around on the shop floor, is a great example. Workers became cost-conscious and developed a new approach to their work by picking up discarded items from the floor with their own hands.
+
+It seems that humans can change their actions when it is about money. If workers are fully aware of the production cost and their labor expenses, they will naturally learn to think a great deal about the shop floor and, at the same time, find better ways to conduct their work so that the overall cost will be diminished. On the other hand, workers Often find their work unbearably redundant in the administrative sector, where the cost does not directly affect their operation.
+
+Let me tell you a story about the delivery company that was a part of a large corporate affiliate group. In the past, workers did not care about costs and did everything as ordered by their parent company, who had helped them financially over the years. One day, the company was asked to become financially independent. At this point, workers calculated the cost for everything and analyzed methods for reducing the cost by changing how they drove their trucks (even how to step on the gas and clutch) and selecting more efficient delivery routes.
+
+To reduce cost effectively it is essential that every worker foresees the cost. Visualization allows workers to identify problems diligently and approach their work with cost-sensitive minds, which leads to them becoming a great source of continuous improvement ideas. Since that bitter experience with Ohno, Mr. A began to approach his work and continuous improvement activities with a tremendous level of attention to every cost involved in the production process.
+
+Cost-awareness among workers cannot be attained by simply ordering workers to save and eliminate costs that exist on the surface. It has to be done, and enforced, by clarifying every cost that is to be acknowledged by every worker.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+The Toyota System advocates the principle of “Visualization of Cost.” If you were bluntly told to reduce the cost mainly because the company was going through some hard times, you would neither take it seriously, nor change the way you perform work. However, if every cost was displayed behind glass with clearly articulated goals to achieve cost reduction, everyone would take the matter seriously. This is the ultimate sharing of critical information in a workplace. Moreover, companies should disclose any information related to their business conditions to their workers so that solutions for solving problems will be automatically generated from concerned workers.
+
+DON’T PLAN WITH NUMBERS FROM THE PAST OTHERWISE THE SAME WASTES WILL BE INHERITED
+
+HOW COULD YOU BASE YOUR FUTURE PLANNING OFF OF PAST RESULTS?
+
+In the early 60’s, Mr. B was working as an administrative operator for Toyota’s production management department. Since becoming his superior, Ohno’s thinking and attitude had greatly influenced Mr. B. At that time, Ohno was assigned the role of Factory Leader for both the headquarter factory and the Kamigo Factory in Toyota City, Nagoya. He was also a managing director for Toyota. Even though Ohno had been known as “God of the shop floor,” the administrative department including, Mr. B, underestimated the fact that Ohno could ever have influenced the way their job was done, even though they had experienced many encounters where their common administrative processes had been completely overturned by Ohno.
+
+For example, a task was given to analyze the level of production efficiency for certain machinery on the shop floor. By calculating the capacity and handling of machinery, when production was to be increased the production management department was able to determine how much production needed to be outsourced with great accuracy. This task was considered to be the most important step in their operation.
+
+After a tremendous amount of effort, they submitted their final report to Ohno. However, he did not intend to read it at all and instead he simply threw it away.
+
+“I am so disappointed in all of you. You can only do wrong calculations,” Ohno admonished.
+
+“How can the performance records of the past be used to determine future performance?”
+
+Ohno asked the team and turned them away by saying, “If you have time to spare like this you should step onto the shop floor and study it.”
+
+Every member in the administrative department, including managers and directors, were completely lost as to how to interpret what Ohno had said. What was more puzzling to them was that the shop floor was able to maintain its calmness despite the fact that they would typically experience chaos when the administrative department became completely lost.
+
+In another case, when a branch factory submitted a request to production management to have a portion of their production outsourced, due to the lack of their production performance, such a request was usually accepted as long it was found to be sound and feasible. However, Ohno no longer accepted such requests, which was later withdrawn by the factory manager. The production management team thought that the request was reasonable enough and that the factory would fail completely if their production could not be outsourced. Instead the factory managed to overcome the hardship without any adverse effects.
+
+Mr. B wondered why the factory did not fail and asked the factory manager,
+
+“How did you manage to survive the situation?”
+
+“Since our request was denied by Ohno we immediately thought about another way by which our production could be contained. We made various continuous improvements and figured out a way to pull it off without any outsourcing,” the factory manager replied.
+
+“If it was manageable enough, why did you submit the request in the first place?” Mr. B replied in an unsatisfied manner.
+
+Ohno told Mr. B later, “It is your department's fault that factories often make such requests to ask for help from outsiders. Also, since such requests are always accepted, the factories cease to avercome their own problems by continuous improvement. Your department may be trying their best to help troubled factories, but you are destroying opportunities for those factories to seek continuous improvement for the benefit of their own shop floors.”
+
+Mr. B was also told by Kikuo Suzumura, a good friend of mine and the first apprentice of Ohno, “If you do your job, it adds cost to your company. The best thing that could happen to your company is for you to do nothing.”
+
+Mr. B felt that everything he had worked for was rejected at once. In the past, the final decision as to whether or not production should be outsourced was always made by him. He had spent so much time collecting scientific information and carrying out complex calculations in order to determine the cost of outsourcing, so that he could make sure that every decision was made effectively. However, Ohno called such information “death certificates.”
+
+His information was not only not useful but destroyed every opportunity for factories to implement continuous improvements on their own. Factories were most likely to have a very hard time when their requests were rejected. Ohno strongly believed that humans were able to utilize their intelligence more often in difficult situations, and succeed in generating effective continuous improvement ideas to overcome challenges.
+
+STOP WRITING “DEATH CERTIFICATES”
+
+As Ohno’s strategies continued to become rooted in production, the number of requests made by factories for outsourcing production dramatically reduced. In addition, the amount of work that needed to be performed in the administrative department was also diminished.
+
+A few months later Ohno created a continuous improvement team within the production management department, where Mr. B was assigned to continue his work. The team conducted various continuous improvement activities under the guidance of Ohno. The team was referred to as the “Production Inspection Lab,” which is still present in Toyota factories today. By the way, I am going to tell you the big secret of this story. Mr. B is Fujio Cho, the current president of Toyota Motors.
+
+I believe that administrative duties should be alleviated by the advancement of information technology but instead I often come across distressed factory managers, who complain about the lack of time they have to step onto the shop floor. Apparently, they are required by higher management to process a high volume of paperwork, for which they spend most of their time in front of their computers. I often ask if such paper work is really necessary. If workers were assigned to produce data that nobody would ever utilize again, the time spent for preparing such data would be the biggest waste of all.
+
+When I would do some paperwork on my desk in the early part of my career, my superior used to tell me, “You can take that paperwork home, but you cannot bring the shop floor with you.” This experience taught me the importance of conducting continuous improvementat the actual place, the shop floor. Therefore, I often advise people to ask themselves this question, “Which is more effective to make progress, doing paperwork in the office or formulating solutions on the shop floor?”
+
+I am not suggesting that collecting data or doing paperwork is always wasteful, however if you are being kept away from the shop floor because of it, it would be like concentrating on circumstances at the expense of the main issue. We must start focusing our attention on eliminating the wasteful time spent by asking questions repeatedly like, “ Are these documents really necessary” and “What should be done now?”
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+Generally speaking, our future planning is often based on historical data. However, Ohno conveyed that historical data inherits various wastes that can be passed on to our new decisions. Therefore, we must refrain from building our decisions upon historical data to avoid the same wastes and flaws our decisions made in the past. The Toyota System believes that continuous improvement in the actual place is the only effective method to eliminate our reliance on historical data.
+
+MEASURE YOUR PERFORMANCE BY PRODUCTIVITY, NOT BY HOW BUSY YOU ARE
+
+DO REAL WORK FOR AT LEAST ONE HOUR PER DAY
+
+In 1946, Ohno gathered up young workers on the shop floor without notice and told them the following, “Fellow workers, I urge you to do real work for at least one hour a day. Your work is so wasteful. Show your ideas and stop being so wasteful just for one hour. ”
+
+This kind of a remark made every worker feel offended and utter words of rebelliousness. Workers said to one another,
+
+“He must be joking. We are doing the best we can and even work overtime. What did he mean by “doing real work for at least one hour” ?”
+
+Some workers showed a bit of hostility against Ohno. Workers thought that they were trusted by Ohno and felt  that the trust was broken for no reason. Their reaction was totally understandable, as they frequently had to work an average of 9 to 10 hours of overtime in a row. Ohno must have known this fact, as he was the managing director of the factory. Being their superior made him realize that their work was being performed in a wasteful manner.
+
+In an example of punching holes in metal rods, a young worker processed 80 rods manually in one day.
+
+“Why are you punching holes by manual feeding when you have automated machines to do the same job?” Ohno ask the young worker.
+
+“It is because I can process it faster in this way than automatic feeding,” The young worker replied.
+
+Admittedly, the automation required 40 seconds to process one rod, whereas processing by hand only took 30 seconds. However, Ohno kept on questioning the young worker.
+
+“If one rod takes 30 seconds, 2 rods can be processed in one minute. That means that 120 rods can be processed in one hour, correct?” Ohno asked.
+
+The young worker found himself at a loss for words because he had thought that he was doing his best by processing only 80 rods in one day.
+
+“According to my calculation you should be processing 80 rods within 40 minutes, meaning that you are putting in real work for only 40 minutes per day. I am sure that you are trying your best but your performance is not acceptable. Do me a favor and perform real work at least one hour per day,” Ohno said to the young worker, with a gentle tone in his voice.
+
+The reasons why the young worker took 8 hours to process 80 rods are as follows :
+
+(1) Manual Feeding
+
+It takes 30 seconds to process one component by manual feeding. However, the tip of the drill gets overheated after 3 components are processed consecutively and must be sharpened frequently. Workers have to wait in line to sharpen the drill, as the number of grinders available on the shop floor is limited. Grinding of the drill takes only 30 seconds, however the whole process usually takes 10 minutes if you include the trip to and from the grinders.
+
+(2) Automatic Feeding
+
+In contrast, it takes 40 seconds to process one component by automatic feeding. The drill automatically turns off before it gets overheated, therefore there is no need for grinding the drill. All workers have to do is set the components to be fed into the machine and let it run automatically while they continue to perform other tasks.
+
+REMOVE WASTES FROM WORK ITSELF
+
+Ohno often emphasized that various wastes existed in the way we had always conducted our work. He always helped his workers to realize this, which led to an increase in their productivity. Ohno may have used a harsh way of telling them to do real work at least for an hour a day, but he was only hoping to motivate workers.
+
+There is actually a good reason behind Ohno’s method, who had taken such a harsh attitude toward his workers since the 1940’s, when World War II had finally come to an end. The year the war was over, Kiichiro Toyoda, the founder of Toyota Motors, gave a pep talk to his company workers.
+
+“We must catch up with American auto-makers within three years, otherwise the Japanese automobile industry will be bound to fail completely.”
+
+In those days, productivity of Japanese industry was only 1/8" of that of American industry. Ohno determined the productivity of Japanese workers had to be increased by 8 times. However, he never thought that Japanese workers would have to work 8 times as hard as American workers, nor that Americans were working harder than Japanese workers. He thought that the difference in productivity could be explained by the fact that Japanese workers were being more wasteful in production. Therefore, Japanese industries could manage to exceed American industries by completely eliminating wastes from production.
+
+With this in mind, Ohno looked carefully at the shop floor and not to his surprise, observed various wastes. There were many cases where workers would waste 8 hours of labor and perform real work for only 40 minutes to yield a true added-value to production. Ohno’s strong belief was that production could be boosted by 8 times once each worker learned to perform waste-free work for 8 hours, even if they had to start doing so by performing productive work for only 1 hour per day. This was the starting point of Ohno’s principle, “Working with Human Intelligence.”
+
+In the beginning, Ohno’s request to perform actual work for at lease one hour each day was accepted with resistance among the workers. Most workers already tried their best and often received compliments for their devotion from their supervisors. It was understandable that they became offended when they were told by Ohno to do real work for at least one hour.
+
+As a matter of fact, Ohno intended this to be as sort of shock treatment. With his shocking remarks and persistent effort of getting workers to visualize wastes in production, Ohno attempted to convey the true purpose behind his behaviors.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+Toyota believes that true efficiency can be gained by continuous progress within processes and not by how hard workers are doing their jobs. How many hours can you say that you are doing real work inside your working hours? I am aware that things have changed dramatically since the time the Toyota System was created, however we must remember that true efficiency is gained by continuous progress within processes at any given time.
+
+PRODUCE ONLY NECESSARY ITEMS
+
+OVERPRODUCTION LEADS TO WASTES
+
+What is the biggest difference between the Toyota Production System and Mass Production?
+
+Mass Production — Sales forecasts determine the intensity of production. Production takes place under an assumption that every item can be sold in the future, even if they remain in inventory for a while.
+
+Toyota Production System — Market demand is carefully analyzed and only the necessary items are produced in the necessary quantity. Overproduction due to inaccurate sales forecasts is considered to be one of the biggest wastes in production.
+
+After reading that, it is easier to understand how wasteful it is to produce items that are neither saleable, nor necessary. However, back in the time of the industrial revolution, when mass production was standardized on the shop floor, it was extremely challenging for factories to grasp the new concept. As I remember, Ohno often told managers of the shop floors,
+
+“Materials such as steel sheets and threads do not make your stomach full.”
+
+Let me explain what he meant by that. Many of Toyota’s retirees built their own factories with their retirement money and Toyota often used their factories. The retirees were-without a doubt-experienced and skilled engineers, however they were lacking serious management skills. They manufactured the best products they could produce but failed to produce items that were demanded by the market. This was the main reason why their factories were managed by more experienced managers, even though they owned the factories.
+
+Ohno used to say, “If you don’t know how to manage your own factories, you will soon become an employee of your own factory. Look at your factory carefully. Workers are working hard to produce all this stuff, but remember Toyota only purchases what is necessary. Even when you spend all the labor and time to produce the best steel component possible, it could easily become a waste if Toyota decided not to purchase it. That means that you will not get any money to pay for the production costs, such as electricity and press machines.
+
+“What is left is a block of useless steel. How would you feed your wife and children if you were the owner of this factory? You probably don't know what I am talking about here because you are receiving salary. But if you were the owner, you would be licking the steel. What's worse is that if you owned a textile factory you would be licking threads... and that has no taste at all!”
+
+With his unique sense of humor, Ohno continued to convey to his workers the importance of removing wasteful work-in-progress items and excess inventories.
+
+INVENTORY IS A CRIME
+
+The basic principle in manufacturing is to analyze market demand carefully and base production on that. In the past, a high economic growth period various commodities were scarce, therefore every product was sold easily because of the high demands among consumers. Having stock was a common practice back then as it was only a short matter of time before products were cleared out of inventories.
+
+Large machinery was purchased for production to keep up with the market demands. Workers did not even take into consideration any sales needs or market demands, all they needed to focus on was manufacturing a wide range of products, as many and as quickly as possible. Factories had operated under these circumstances for many years and mass production had become the main process taught to the shop floor workers.
+
+During that same time period Toyota Motors had started to take a different approach to production. Their approach was, fundamentally, to “produce only saleable items.” Toyota learned that very important lesson when it faced bankruptcy in 1950, due to holding a large volume of inventories. In other words, the Japanese automobile industry, in the post-war period, became financially vulnerable and could not afford to maintain inventories in order to complete with well-established companies overseas.
+
+What did Ohno mean by “necessary items?” It basically means a “sales trend.” Everything is determined by the market demand. The necessary items are decided by the market and should not be controlled by decisions made only on the shop floor. The real challenge here is to produce the necessary items at the lowest cost possible. It is referred to as “Limited Amount Management,” or limiting both the cost and quantity of production. This is what separates it from the “Make to Stock” production system.
+
+The “Make to Stock” production system is simply based on assumptions and the sales forecasts of producers. However, such assumptions are often inaccurate, which causes factories to suffer from excessive inventories. Even with elaborate sales forecasts, which are made by carefully analyzing the market, it is not that simple to predict the market as business climates and people’s hobbies change quite unexpectedly. Another disadvantage of the “Make to Stock” production system is a failure to meet the market demand when it exceeds the volume of production. This also means a loss of opportunity to sell more items on the market.
+
+The Toyota System clearly understands that their production systems must accommodate gradual changes in the market demand and allow a flexible production mechanism in order to facilitate efficient transitions for both an increase and decrease in production. In order to systemize such a production system, the shop floor management had to associate a sense of guilt with holding inventories and to keep firmly in mind, at all times, that only saleable items needed to be produced.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+It is considered wasteful to:
+- Produce items that are assumed to sell
+- Produce items in less time than needed
+- Produce more items than needed
+
+Over-production, especially, can lead to various wastes other than maintaining inventories, such as an increase in In-Process Stock (increased holding time due to material shortages or process delays), waste of movement, and waste of transportation. True work lies in a production system where only the necessary items are produced in the necessary quantity at the right time. The Toyota System calls it “Just-In-Time.”
