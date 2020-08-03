@@ -1,0 +1,237 @@
+COMMANDEMENT 2
+
+“Hang in there and never give up once you begin, otherwise you will make it a habit to leave things unfinished.”
+
+DISCOVER THE TRUTH BEYOND YOUR UNDERSTANDING
+
+STAND AND OBSERVE THE SHOP FLOOR
+
+A young Toyota worker, Mr. C, was taking a break after having finished a continuous improvement activity on the shop floor. Ohno approached Mr. C and was told that the continuous improvement was successfully achieved. Without uttering a word, Ohno studied the shop floor where Mr. C supposedly had applied continuous improvement.
+
+Ohno pointed his finger at the floor and said to Mr. C, “Draw a circle here with chalk.”
+
+Mr. C was confused but did what he was told to do, and drew a small circle on the floor.
+
+“You idiot! How are you going to stand in such a small
+circle?” Ohno asked.
+
+Mr. C redrew a bigger circle and was ordered by Ohno to stand in the circle and observe the shop floor for a while. Mr. C had no clue as to what this was all about, but he could not object to Ohno and decided to stand in the circle as told.
+
+Around lunch time Mr. C heard nature calling, so he stepped out of the circle to use the bathroom. When he returned to the circle Ohno was standing by it to see what had happened.
+
+“Why did you step out of the circle without permission?” Ohno asked.
+
+“Well, I needed to use the bathroom pretty badly,” Mr. C began.
+
+“After you have lunch come back to this circle and stand in it. If you need to leave the circle for any reason, you must get permission,” . Ohno gave his instructions to Mr. C and left the scene.
+
+Mr. C simply had no choice so he stood in the circle. He  did not know what to look for and just observed the shop : floor without any purpose.
+
+In the early evening Ohno came back and asked Mr. C, “So, have you figured it out yet?”
+
+“I just have no idea,” Mr. C answered honestly.
+
+Ohno gathered his thoughts and said, “I see. You can go home now, but you will need to stand here tomorrow morning as well.”
+
+Mr. C almost brought himself to ask Ohno what this was all about but he knew, as always, that Ohno would ask him to figure out the answer to his own question.
+
+He returned and stood in the circle the next morning. He was smart enough to know that he needed to be looking for some problems, since Ohno had personally ordered him to observe the shop floor, but he could not figure out what the problem was, much less what he was supposed to be doing about it.
+
+Ohno came to see him around lunch time and asked, “Have you figured this out yet?”
+
+“Yes. There is a problem,” Mr. C answered with uncertainty hoping to put an end to the whole situation.
+Ohno did not ask him what he discovered, but instead pointed a finger at the shop floor and, said, “Observe how the shop floor workers conduct their operations. You told me that you had continuously improved the shop floor but it has gotten worse because of your instructions! If you know what the real problem is now, go and fix it right away.”
+
+He looked at the shop floor again and agreed that workers were still having a hard time doing their duties. He immediately interviewed the shop floor workers and formulated another continuous improvement strategy to remedy the issues.
+
+The problem was that he automatically assumed that his initial continuous activity had been successful and did not carefully confirm its results. Ohno knew immediately that the problems that still existed on the shop floor; instead of telling Mr. C right away, Ohno wanted to teach him a lesson in his unique way of ordering his workers to stand in a circle.
+
+Ohno focused on teaching workers two things:
+
+(1) Observe the shop floor closely.
+
+(2) See through a continuous improvement activity and confirm the positive results with your own eyes.
+
+It took as long as one and a half days for Mr. C to learn the lesson but this experience had opened his eyes and enabled him to approach the shop floor with a greater level of accuracy and confidence throughout his career.
+
+HOW CAN YOU BASE YOUR FUTURE PLANNING ON PAST RESULTS?
+
+Once, when Ohno was touring a company, he asked the factory tour guide, “How much time does this process take?”
+
+“I think it is around 15 minutes,” the tour guide
+answered, without knowing anything for sure.
+
+Without moving at all Ohno continue to observe the shop floor workers in detail. He counted down the time and the process did not get completed within the 15 minutes.
+
+“I knew it. It took more than the time you specified. This is because your workers are doing their jobs in a wasteful manner. You must fix the problem by continuous improvement right away,” Ohno told the management personnel and continued touring the factory.
+
+As Ohno emphasized all the time, if there is a problem the true cause of it must be identified by observing each process carefully. At the same time, the existing issues and assumptions must be confirmed by stepping onto the shop floor and determining their accuracy. Both the starting and ending points of true work reside on the shop floor.
+
+I personally have had similar experiences with Ohno. When I told him that a certain continuous improvement activity was carried out on the shop floor he often asked me if I had seen any positive results because of it or not.
+
+There is a famous episode with the founder of the Toyota Group, Sakichi Toyoda, in which he would spend all dav observing some elderly females weaving in the neighborhood while he was inventing the automatic loom. Ohno was simply the same way. Continuous improvement requires a perfect comprehension of the shop floor and to accomplish that Ohno repeatedly told his workers,
+
+“Stand in the shop floor and observe the processes all day long. You will come to understand what must be done to resolve the most critical problems.”
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+It is easy to say “Observe the shop floor” or “Know the shop floor,” however it is always challenging to discover the true problem and figure out an effective continuous improvement solution simply by our observation. When you think that you have figured it all out, your decisions are still often limited to the scope your own knowledge. Therefore, continuous improvement solutions created in this manner often fail to succeed.
+
+You will begin to establish the most effective solution by persistently searching for truths and observing every process on the shop floor repeatedly until the real issues are discovered. The Toyota System has strongly encouraged this self-training process among their workers in order to promote the most effective problem-solving skills.
+
+AVOID FIRST-AID REMEDIES; DEVELOP A HABIT OF ANALYZING PROBLEMS THOROUGHLY ON THE SHOP FLOOR
+
+DID YOU APPLY AN APPROPRIATE SOLUTION?
+
+A Toyota worker, Mr. D, had worked for Toyota for 5 years when he was assigned to work on a project that was designed to increase manufacturing productivity for newly released cars. While working on this project he had an opportunity to meet Ohno for the very first time. Mr. D had heard about Ohno’s unique personality and leadership, however it was not until he actually worked with Ohno that he was truly astonished by Ohno’s passion and  dedication toward continuous improvement.
+
+Mr. D was instructed by Ohno to provide a component supplier with training for their Kanban System (a mechanism used to instruct the production and transportation of items.) The supplier was suffering from the loss of Kanbans in the course of their production process. The basic rule is that production stops unless a physical Kanban comes in to order more. By this method wasteful production can be eliminated, as long as this rule is strictly adhered to.
+
+The problem was that physical Kanbans were lost and never reached the shop floor to initiate the production process. If the shop floor followed the rule then production would not take place, in spite of the actual orders, which created various problems for their own company as well as their customers, such as Toyota. Mr. D decided to provide a first-aid solution to the problem by increasing the number of Kanbans.
+
+This was quite a risky solution. If the missing Kanbans were later discovered then the shop floor would produce the quantity instructed by them as well, causing a rapid increase in the existing inventory. However, to Mr. D, as inexperienced as he was, it was more important to meet the deadline than deal with the risk of double-production.
+
+Ohno learned about the incident and became enraged. “You did not even attempt to look for the missing Kanbans and decided to replace them with new ones without permission. Go back to the : shop floor and find those missing Kanbans immediately!”
+
+Mr. D was intimidated by Ohno’s furious behavior and spent more than one hour searching for the missing Kanbans. He had absolutely no luck and told Ohno, “I looked everywhere for the missing Kanbans, but I could not find them.”
+
+Ohno replied, with the same level of intensity as before, “What do you mean by you looked everywhere? You only spent one hour of your time!”
+
+He went back to look for them more carefully but still had no luck. He thought that the Kanbans were not to be found, given how many hours were spent looking for them, and that Ohno would understand that as well.
+
+He reported back to Ohno and told him, “I spent many more hours looking for the missing Kanbans. I am sorry to tell you that I could not find them anywhere.”
+
+“Do you know why you cannot find the missing Kanbans no matter how hard you try?” Ohno asked.
+
+Mr. D did not know how to answer the question and was told by Ohno, “It is simple. You do not have an intention to keep searching until you can find them.”
+
+Mr. D found himself becoming more serious than he thought he could become about the missing Kanbans. He traced back his search routes and continued to visit places he would have never considered in his desperate attempt to locate the Kanbans. It was when he almost decided to give up again that he finally located them by subconsciously lifting up a component box. The missing Kanbans were stuck on the bottom of the component boxes as they were stacked. As a result all of the missing Kanbans were fully recovered and Mr. D could not wait to tell Ohno about it.
+
+He told Ohno with joy, “I found them finally!” Much to his disappointment Ohno did not reply with, “I am so proud that you found them,” instead he simply replied, “Have you already implemented a solution for that?”
+
+REPEAT “WHY?” FIVE TIMES
+
+The assignment given to Mr. D was not simply to locate : the missing Kanbans. He was supposed to analyze the true cause of the problem and facilitate a continuous improvement solution so that the same mistake would not be repeated ever again on the shop floor.
+
+Mr. D found that Kanbans had been attached to the top of the component boxes and were pasted, by accident, onto the oily bottoms of other boxes as they were stacked. To solve this problem, Mr. D instructed that Kanbans should be attached on the side of the component boxes, which successfully eliminated the issue of missing Kanbans. After this incident the supplier became proficient in utilizing Kanbans in their operations.
+
+Mr. D came to understand that first-aid solutions should never be applied and instead an analysis of the true cause of a problem is absolutely necessary so that effective solutions can be put into practice. He also acknowledged that 2 important lessons had been taught by Ohno:
+
+(1) Implacability in asking yourself “Why?”
+five times.
+
+It is easy to simply instruct people to repeat : “Why?” five times. However, as in the case of Mr. D, a tremendous effort and devotion is often necessary to draw answers for the first “Why?” Many of my colleagues from Toyota had experiences of being instructed by Ohno
+to discover the true cause of problems over the period of several days, or even that of many months. In some cases, asking “Why?” needed to be repeated six or seven times until the true cause was discovered. Solutions formulated after asking “Why?” only two or three times are not the real solutions, as the true cause has yet to be found. In this case, the same problems are often repeated and lead to more serious consequences.
+
+(2) Fix it at the core instead of just patching it.
+
+Ohno taught me the difference between “fixing” the problem and “patching” (first-aid) the problem. When a machine breaks down it may require some first-aid repairs, such as replacing parts. However, the machine is most likely going to break down again, as the true cause of the problem was never fixed at the core. This is just “patching” the problem and is not “fixing” the problem. “Fixing” seeks out the true cause of a problem and removes it so that the same mistake is never repeated. “Fixing” is one of the most important practices in Toyota. Toyota also applies this practice beyond machineries to many other sorts of problems so that a strong-minded shop floor is established in the end.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+The Toyota System requires “Why?” to be repeated until true causes are discovered. It is indeed a tough challenge for everyone, but our work requires a strong commitment to overcome problems if it is to be meaningful at all. In other words, a new array of work becomes apparent to us as the result of our devotion to the existing work.
+
+DON’T JUST DO WHAT YOU CAN, DO UNTIL YOU CAN
+
+SEARCH FOR THE ANSWER UNTIL YOU FIND IT
+
+In the world of quality control it was often considered acceptable to find three defects in 1,000 products. That is a defect rate of only 0.3%. This could easily pass the quality control standards of the past, however it is simply unthinkable by today’s quality standards. Despite the fact that such an allowable defect rate has been improved over the years, many factories still believe that a certain percentage of their production is inevitably going to become defects in one form or another. As I described previously, Ohno strongly believed that defects could be reduced to absolute zero with no exceptions.
+
+Mr. E was a technical instructor who worked on the assembly line for the factory managed by Ohno. He was in charge of attaching clamps and screw nuts onto the body frames in the automobile section. One day, a frame advanced to the post process without a necessary clamp attached completely to it, and was later returned back to Mr. E. Ohno happened to step into the shop floor and found this defective frame was being kept on the floor.
+
+He immediately called for Mr. E and asked, “What in the world is this all about?”
+
+“It was retuned by the post process because it was missing the clamp on it,” Mr. E replied “Have you learned where and why it was detached from the frame?” Ohno asked.
+
+“I have no clue,” Mr. E replied.
+
+“Shame on you! It is the most important aspect
+of your work. Investigate this case until you
+are absolutely sure how this happened,” Ohno
+fumed.
+
+It was his first time being reprimanded by Ohno with such intensity. Because of his experiences in working as a technical instructor he knew the significance of inspecting reasons why the defect came about in the first place. However, he had wished that this would be an exception due to its rare occurrence. He knew that rarity, and the many possible causing factors, were just too large a problem to manage on his own and he did not like to push disruptions onto other departments. He also knew that Ohno would never accept this as an exception since the problem had come to the surface in the first place.
+
+Mr. E started his investigation as ordered by Ohno, though he knew it was going to be extremely difficult. In order to find defects he had to observe the “scene of the crime” of the defect at the time it was produced. Since the reoccurrence rate was so low he thought it was simply impossible to witness the same defect occur again. Mr. E persistently looked for the defect for over two days with no luck at all.
+
+He reported to Ohno hoping that he would be ordered to stop searching.
+
+“I spent the last two days looking for it, but nothing could be found.”
+
+“Keep on looking until you find it,” Ohno simply replied.
+
+On the third day, he witnessed the moment when the clamp snapped off in the engineering shop. It was outside his jurisdiction so he called the manager in charge and instructed him to implement a continuous improvement measure to eliminate the problem.
+
+As ordered by Ohno, he spent three straight days investigating the cause and successfully overcame what had been considered impossible. If he had simply given up, this could never have been achieved.
+
+NEVER ACCEPT EXCEPTIONS
+
+I was often told by Ohno that exceptions such as three defects out of 1,000 products should be cherished as they always indicate room for more improvements. By eliminating exceptions one by one, the zero-defect goal becomes more attainable while at the same time improving the quality of overall production.
+
+Toyota's quality control tactics have deep roots in the development of automated weaving machines by Sakichi Toyoda. Sakichi’s weaving machines were equipped with safety devices that allowed stopping of the machines when threads snapped or ran out, for instance. This mechanism successfully eliminated even the slightest chance for any defects to be formed. Strong determination for “zero-defect control” was launched from this time onward.
+
+Ohno strongly believed that zero-defect control could be accomplished by implementing this mechanism not only to machinery but also to processes performed by humans. Every machine detects abnormalities and is given a capacity to automatically shut itself down. In the same manner, each worker is capable of stopping the entire production line if he detects irregularities in one form or another. This is called “Automation with a Human Touch,” which allowed the realization of a defect-free production mechanism, after effective continuous improvement measures are implemented to remedy the true cause of a problem.
+
+If defects still managed to occur Ohno did not simply exclude them as rare exceptions. Instead spent a great deal of effort in encouraging his workers to eliminate such defects, even the their occurrence rate was close to 1/10,000 or even 1/100,000.
+
+The current president of Toyota Motors, Fujio Cho, shared his experience with Ohno.
+
+“In the past it was considered an exception in the industry to see 3 defects in every 1,000 products. Ohno, on the other hand, used to tell me, “Are you a novice? You must take it much more seriously if as many as 3 defects occur in every 1,000 items. That's a lot of defects.” We would produce only 100 items per day, so that meant defects could occur once every 3 production days.
+
+“Our real challenge, which came later, was how we could possibly track down a defect if it only occurred once in every 10,000 items. Ohno did not think this to be an exception either. He would tell me to keep standing on the shop floor until I could see it. His reasoning was that the occurrence of a defect was like physics; if the same conditions are met, it is bound to happen again. So, I would just keep standing until I finally found it.”
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+The elimination of defects is a never-ending goal in the field of manufacturing. This goal can never be achieved if even the slightest percentage of defects are viewed as exceptions. A strong determination for our “zero-defect goal” must be present and we must dedicate ourselves to observing the shop floor for a number of days until we can witness the crime. It sounds extremely challenging to accomplish, however you must try until you pull it off. That is the Toyota way.
+
+
+DON'T BECOME CONCEITED BY BEING SATISFIED WITH IMMEDIATE RESULTS, AVOID BEING OVERCONFIDENT
+
+FORGET ABOUT WHAT HAPPENED YESTERDAY
+
+The most difficult stage in a continuous improvement activity is when positive results begin to appear on the surface. “Everything we could possibly do was done. Nothing more can be continuously improved at this point.” Such a self-conceited attitude should be eliminated. One must reset oneself and go back to their first objective so that new motivation towards continuous improvement can be attained.
+
+The reward is usually huge and easy to see during the beginning stages of implementing continuous improvement measures. Positive results are easily achievable and enjoyable by even rough measures at first. This is more true if continuous improvement activities are initiated in a more wasteful production environment. Our challenge remains, after acquiring the first set of objectives (by carrying out only the most basic continuous improvement), to define the next set of goals and overcome the tendency to be satisfied with only the easily-attainable goals.
+
+A widely-improved shop floor often says, “We have done great work so far. We have nothing left to improve.”
+
+This is a sign of over-satisfaction.
+
+Toyota worker Mr. F performed a series of continuous improvements in the production line, which enabled performing a certain process by only three workers, instead of five. As a result, the production cost was reduced dramatically and Mr. F received many compliments from his colleagues. He himself thought it was a wonderful job and felt overly satisfied with the end result.
+
+Ohno told Mr. F, “Think beyond that. What
+comes after reducing the number of workers?”
+
+Mr. F had no idea what Ohno meant at first. He honestly thought there was nothing more to be done after eliminating two workers. The result was good enough and no other department had been as successful in reducing the number of workers as drastically as he had.
+
+“There is nothing more that can be improved from this,” he told Ohno.
+
+“Improve further what you have already continuously improved. That is what separates true professionals from average workers,” Ohno replied.
+
+Ohno strongly believed that only death can separate continuous improvement from a worker. When one sprout of waste is removed another sprout grows immediately in its place. Workers must always think beyond their achievement and should not remain satisfied with what was already accomplished in the past or they would miss a new sprout of waste.
+
+Ohno once told me an analogy to explain the dangers of self-conceit. He used the story of a student and master of Japanese sword fighting. To become a sword fighter, a student trains under his master in the beginning. After vigorous training the student was able to win one game out of three from his respected master. If he thinks and feels : satisfied here, “I can win one game out of three against my master therefore there is nothing more for me to learn,” he ceases to improve himself beyond this point.
+
+For those who become true masters, they will focus on nurturing their intelligence at this point. They may meditate or isolate themselves in the mountains to reflect on their past knowledge and experiences so that they could become free from all distracting thoughts. By doing so, ones moral character and a higher level of intelligence are formed, reaching the realm of a sword fighting master.
+
+Ohno thought that feeling satisfied with your own continuous improvement was like being content with winning only one game of sword fighting out of 3, and that such workers would be limiting their own potential to grow. To promote this idea ona daily basis, Ohno often said,
+
+“Forget about what you accomplished yesterday. Donot think about tomorrow either. Something is wrong and wasteful with what you are doing now and today. There is still room for continuous improvement as we speak.”
+
+With this recommendation in mind, Ohno guided his workers through continuous improvement on a regular basis.
+
+ONCE THE GOAL IS REACHED, REPLACE IT WITH A NEW ONE
+
+Mr. F started to think differently after the incident with Ohno.
+
+“No matter how hard I work to get the results I desire, I should not remain satisfied. As a professional, it is extremely important for me to initiate a new challenge on my own in an attempt to seek the ultimate production mechanism by a never-ending continuous improvement effort.”
+
+It is extremely important to feel a sense of triumph in our intellectual development, to a certain degree. However, if it turns into excessive self-satisfaction, humans will cease to grow beyond that, and, in some cases, can even begin to degrade. Self-confidence should be valued but overconfidence should be eliminated.
+
+Stick to it until the end. The secret to success is setting a higher, sometimes unattainable goal. This is what Ohno wanted to convey to all of us. Ohno used to say the following in regards to setting goals,
+
+“The real goal is to challenge our human intellectual potential without end. A goal must be set even higher immediately after it is reached.”
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+The secret behind the Toyota System lies in its endless benchmarking techniques. Benchmarking promotes a way of growth in which you are compared to the best processes or people and continuously adapt such best practices to achieve progress. While staying hungry for better and cheaper things in the world, a goal must be replaced with a higher goal once it is achieved and continuous improvement must be practiced endlessly to achieve each goal. This perseverance is what has made the top companies that exist in the world today what they are.
