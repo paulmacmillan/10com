@@ -1,0 +1,258 @@
+
+Commandment 3
+
+“Keep your workers challenged. This creates an intellectual advantage over those who prefer an easier way.”
+
+INCREASING PRODUCTION WHILE LIMITING THE NUMBER OF WORKERS IS THE ONLY WAY TO GAIN TRUE SUCCESS
+
+GIVING EVERYONE A HARD TIME IS YOUR RESPONSIBILITY
+
+The following story took place in the first half of 1965 when the Toyota Corolla was selling extremely well. Ohno gave instructions to the production manager for the engine processing department.
+
+“Produce 5,000 engines with less than 100 workers,” Ohno ordered.
+
+The production manager reported back to Ohno a few months later and said, “We are now able to produce 5,000 engines with only 80 workers.”
+
+The sale of Corolla’s continued to rise, however, requiring the production to be increased accordingly. Ohno asked a question.
+
+“How many workers do you think are needed to produce 10,000 engines?”
+
+“160 workers would be sufficient,” the production manager replied.
+
+This answer infuriated Ohno. “I learned how to figure out 8 x 2 = 16 in elementary school. I had never thought I would learn that again from you when I am this old. Do not treat me like a fool.”
+
+The production manager had no intention whatsoever of insulting Ohno, he just gave a simple answer. His logic was that if 80 workers were needed to produce 5,000 engines, it would require twice as many workers to complete 10,000 engines. It was so obvious to him.
+
+However, Ohno never allowed this kind of an answer, as it was to so amateur and lacking intelligence.
+
+Ohno added, “You are so accustomed to a notion that any form of increase in sales, labor and equipment is considered favorable. But, how do you ensure that our profit keeps on increasing? That is the most critical factor.”
+
+In other words, business should not be operated based merely on the management of arithmetic, such as 8 x 2 = 16 in this scenario. When production needs to be doubled we must apply our intelligence and creativity in order to establish the most effective continuous improvement measures so that we can limit the labor cost and maximize our profit. Ohno called it “Management by Ninja Art.” Based on this reason, Ohno scolded the production manager for simply doubling the number of workers without putting any creative thinking into it.
+
+After this incident, the production manager carried out a wide range of continuous improvement strategies and succeeded in reducing the number of required workers to only 100. He pulled this off by shifting away from simple arithmetic solving, as instructed by Ohno.
+
+To give you another example, say 100 workers are required to produce 5,000 engines. Sales remain strong and 6,000 engines are soon needed to be prepared. What would Ohno do in this case? His idea would be, “Increase production without increasing workers.” Ohno did not encourage any labor enforcement, where workers were given unreasonable deadlines, instead he expected his workers to apply their intelligence and repeat continuous improvement so that even what was considered to be an impossible goal became achievable.
+
+Say the goal was achieved after hard work and production was ordered to level down to 5,000 engines. Typically, it would be a big relief for workers and they may decide not to work as hard anymore. However, Ohno would push them one step further and give them a hard time. Ohno would give an order like,
+
+“We were using 100 workers to produce 6,000
+engines in this production
+number of workers to LESS than 100 to produce
+5,000 engines since the production was ordered to be reduced.”
+
+This would be an extremely difficult challenge for workers. It is true that 100 workers did manage to produce 6,000 engines by vigorous continuous improvement ideas, however completing 5,000 engines has always needed a bare minimum of 100 workers. Ohno did not care about the fact that 100 workers was the requirement for com- pleting 5,000 engines because that was only true prior to continuous improvement.
+
+Reducing the number of workers is a common practice to limit the production cost while securing productivity. The only challenge here was to find solutions to make efficient adjustments with available resources, or less, as the production output changed.
+
+Ohno also made it a habit to say,
+
+“It is my job to give everyone a hard time.”
+
+By doing so, Ohno trained his workers to challenge impossible goals and gain continuous improvement skills by applying their intelligence and experiences to problem solving. It is a fact that Ohno’s approach has lead to Toyota’s competitive edge over other companies over the many years that followed.
+
+BIG REASONS WHY TOYOTA HAS BECOME SO SUCCESSFUL
+
+The Toyota System has been all about seeking innovative solutions for accommodating the increasing volume of orders while minimizing the number of workers. In 1950, Toyota Motors faced the risk of bankruptcy and overcame it by being financed by a new set of bank loans in exchange for eliminating close to 2,000 employees, as well as the resignation from the original founder, Kiichiro Toyoda. This was when Toyota learned the risk of producing items based solely on sales assumptions and reduced their monthly production output down from 1,000 cars to 800.
+
+When the Korean War broke out unexpectedly, soon af- ter Toyota faced their financial crisis, Toyota received a large volume of orders for supplying trucks for the war. Ishida Taizo was the president at the time and was responsible for restoring the financial state of Toyota. He did not allow the number of workers to be increased and instead provided solutions to accommodate the increasing orders with the available resources. It would have been simply impossible to overcome this challenge if the old way of production had been used. The creative minds of Eiji Toyoda and Ohno lead to the establishment of an innovative production system that helped Toyota survive the crisis.
+
+I remember Ohno saying repeatedly that he could not sleep some nights because he was brainstorming for new ideas. He also told me that the fact Toyota was able to boost production without increasing workers has made Toyota what it is today. In other words, when Toyota was faced with limited resources, such as labor, equipment, invest- ment and raw materials, Toyota chose to utilize human intelligence to draw effective solutions to enhance pro- ductivity. This was the starting point in the development of the Toyota Production System.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+There is nothing challenging about manufacturing when abundant amounts of resources,such as workers, equipment, raw materials, and financial investment, are available. On the other hand, if such resources are scarce it is an entirely different story, as you can expect. Only in these types of situations do humans learn to utilize their intelligence to come up with solutions. The most effective allocations of labor and equipment are carefully analyzed so that wastes and defects are completely removed from production. Even when resources were abundant, Ohno often pushed his workers over the edge — giving instructions to boost production without increasing workers, so that his workers never ceased to apply their intelligence to improve production.
+
+DON’T SELECT WORK BASED ON WHAT’S POSSIBLE OR NOT, ALWAYS DECIDE BASED ON WHAT'S NECESSARY OR NOT
+
+IMPOSSIBILITY LEADS TO NEW IDEAS
+
+Changeovers of machinery are needed to run from one product to another. In the beginning of 1965, Toyota would spend two to four hours performing a single changeover per 1,000 ton press machine. When a changeover took place the process was put on hold, which made it almost impossible to maintain a high operation rate. This was true especially for Toyota, who focused mainly on high-variety, low volume manufacturing. Therefore, the biggest challenge for Toyota was to minimize the time required to perform changeovers on the shop floor.
+
+Toyota initially set a goal of reducing their changeover time to less than two hours. At that time Volkswagon was already performing their changeovers in just two hours and Toyota wanted to beat their competition. With the help of a production engineering consultant, Shingo Shi- geo, young engineers used their intelligence to come up with a strategy. Eventually, the changeover time was re- duced to only one hour.
+
+There were two kinds of changeovers performed at Toyota back then:
+
+(1) Internal Changeover — Machinery must be stopped to perform a changeover.
+
+(2) External Changeover — A changeover can
+be performed while machinery is running or after the process is complete.
+
+Each process chose to implement either one of these two changeovers in an ambiguous manner. By clearly distinguishing the applicability of these changeovers, External Changeovers were heavily promoted to all of the suitable processes, and continuous improvement measures were formulated independently on each type of changeover. Six months were spent in doing so and eventually the changeover time was reduced to only one hour, down from four hours, and almost everyone was satisfied with the result. However, Ohno was not satisfied and gave everyone another challenge.
+
+“Now reduce the changeover time to less than 10 minutes,” Ohno bluntly told his workers.
+
+The project team thought there was absolutely no way this was possible and were completely lost as to how to
+approach this challenge. However, Ohno's orders had to be followed and the changeover time for a 1,000 ton press machine had to be reduced to less than 10 minutes.
+
+What appeared to be an impossible-to-achieve goal not only gives people a hard time, but also motivates humans to fully utilize their intellectual possibilities. The team leader did not give up and felt challenged by the new goal.
+
+The team suggested over a hundred improvement topics and worked exclusively towards turning Internal Changeovers into External Changeovers. A mechanism that allowed a changeover (switching blades and molds, etc) to be completed with a touch of the button was also introduced. Clamps no longer used bolts or could betightened by turning the bolts only once, which reduced the changeover time in increments of seconds.
+
+The changeover time was finally reduced to seven minutes, and the results were miraculous. The accumulation of small innovative ideas realized the goal. Techniques used in this challenge were also applied to the development of “Single Minute Exchange of Die” that allowed a complete changeover within 10 minutes. The development of “One-Touch Changeover” was also triggered and implemented in many other processes, allowing a changeover to be completed within only seconds.
+
+This achievement signifies a milestone in the development of the Toyota System. The group leader believed that “Single Minute Exchange of Die” would not have been invented if Ohno had not ordered it. The point is that impossible goals can lead us to generate ideas that we never thought we could possibly have.
+
+WHY GIVE UP BEFORE YOU TRY IT?
+
+No one was more delighted with the result than Ohno. Ohno himself was having a hard time eliminating wasteful changeovers and was running out of continuous improvement ideas. The eventual achievement of reducing the changeover time to 3 minutes was extremely critical to many other important future developments of the Toyota System, especially the “One-piece Flow.”
+
+In my personal experiences, Ohno often gave me various impossible challenges to overcome when we were absorbed in continuous improvement activities. He would become furious if we simply replied to him by saying, “I cannot do it” or “It is impossible.”
+
+Ohno would say, “How can you think it is impossible if you do not try it at all? You are not a fortune teller.”
+
+Ohno gave everybody a hard time without any hesitation, he was natural at that. However, it is doubtful that Ohno always expected the challenges to be realized by his workers. Achievement of SMED was a good example. However, Ohno had always believed that challenges could be overcome in one way or another and conveyed to his workers the importance of trying.
+
+The son of Sakichi Toyoda, Kiichiro, had a tendency to reject possibilities on the basis of the principles he had learned at the university. Sakichi always advised him to at least give it a try. Kiichiro was skeptical at first but decided to give things a try and, to his surprise, he was able to achieve what he had thought to be impossible. Since then he became a true believer in trying instead of drawing conclusions in his head and simply giving up. Ohno was the same way.
+
+For example, we tend to incorporate only a partial improvement to achieve small goals, such as reducing the production cost by 10%. Say we are asked to cut the pro- duction cost in half, this often leads us to some revolutionary solutions to achieve sucha difficult goal. We may look into overhauling the entire production system or changing the raw materials to be used in production.
+
+Toyota has always cherished their worker’s waste-consciousness and ability eliminate even the smallest waste on a regular basis (Waste Removal Continuous Improvement). At the same time, Toyota sets nearly-impossible goals and puts up a good fight toward achieving such goals (Problem Challenge Continuous Improvement).
+A good example is that Toyota acquired the famous “CCC21” Achievement (Construction of Cost Competitiveness in the 21st Century) by reducing their production cost by 1 trillion yen over three years. Such an achievement goes back to very words of Ohno. "Apply SMED to all of our processes. It is never impossible if we try."
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+If you think you cannot do it before you even try, you may miss some of life’s greatest opportunities. When ou havea positive attitude you will be surprised at how much is actually possible to achieve. The basic lesson of Toyota is to “always try it first.” Work requires two types of people, one throwsa ball as far away as possible, and the other gives ideas on how it can be fetched.
+
+LEAD THEM TO AN ANSWER BUT DON’T GIVE IT AWAY
+
+SURPRISING IDEAS COME ABOUT WHEN ONE IS IN DESPAIR
+
+Ohno never explained to his workers the reasons why continuous improvement was necessary, let alone described how it could be achieved. He made everyone think for themselves.
+
+Ohno once visited a factory and observed an operation. Immediately afterwards he told the assistant manager of the factory, “Get rid of that automatic delivery machine.”
+
+The assistant manager knew that his workers would be strongly opposed to the idea but followed the instruction without asking the reason why. Ohno was the Vice President of Toyota at the time and was responsible for the entire production line. His instructions had to be followed and no objections were allowed.
+
+The assistant manager ordered his workers to carry out the instruction. Workers complained, as expected, saying,
+
+“If we remove the machine, how are we going to transport heavy items? We would need more workers and time. It would be extremely hard to perform the same job. Please tell Ohno that it cannot be done.”
+
+The assistant manager thought it to be a reasonable reaction from his workers but he was unwilling to tell Ohno that. He told himself, “Mr. Ohno must have a very good reason behind it. I will follow his instructions for now and think about a solution.”
+
+Ohno had instructed the assistant manager to come up with a solution on his own. He did exactly that, searching everywhere for a clue that would help him come up with a solution.
+
+Transportation by workers was out of the question. It would increase the labor cost and become time-consuming, which Ohno would never agree with. He continued to brainstorm for an alternative way to transport items with- out using an automated machine. He incorporated ideas from his workers and decided to construct a special holding jig by which heavy items were lifted up and pushed onto a destination. A pulley was also used to move items while being lifted up.
+
+In practice, it was much easier that they thought it to be. It was a breakthrough idea and the task was performed much faster than the automated machine. The assistant manager fully realized what Ohno was after.
+
+Ohno returned to the factory after a few weeks and did not waste time in approaching the assistant manager.
+
+“Is the shop floor doing alright without the au- tomated machine?” Ohno asked.
+
+“Yes, they are doing fine. Everybody brought good ideas together. We decided not to rely on increasing the number of workers, as it would only lead to labor enforcement, resulting in a higher overall production cost. We figured out through trial and error that the best way was to make use of a special jig and pulley. This new method allows us to reduce the time required for transportation as well,” the assistant manager explained.
+
+Ohno was quite content to hear this and replied, “That is wonderful news! Honestly speaking, I was worried for your workers after giving you such a difficult challenge. The shop floor workers bring out their hidden potential when they are pushed over the edge. I am so proud of you all.”
+
+The assistant manager was extremely happy to receive the compliment from Ohno and also felt rewarded b working so closely with his own workers. He would never forget the fact that Ohno had personally shown his concern and wished luck to the entire shop floor.
+
+COME UP WITH THE ANSWER ON YOUR OWN
+
+It is true that Ohno was known to give everybody the hardest challenges. As illustrated in the previous story, Ohno never gave out challenges for which he did not have substantial reasons or solutions of his own. It is possible to say that he had already knowna solution to the problem that tormented the assistant manager. However, Ohno always refused to give away answers as he strongly believed in the innate intelligence of humans and the shop floor. It was this belief that had enabled Ohno to challenge the shop floor workers to go beyond the “possible” realm, even without giving out any clues.
+
+Many managers today still do just the opposite. They may appear to be trusting the shop floor and believe in its potential but they end up giving out their own solutions to be followed. To this end, workers no longer apply their own intelligence to battling a problem.
+
+Ohno used to say, “We can teach so many different principles to the shop floor workers, however true results can never be attained unless the shop floor workers begin to think on their own.”
+
+PAUSE juste avant la page 12 du pdf (page 50 du livre)
+
+While management staff can think of many ideas, only
+the shop floor workers can come up with solutions that work because they are the ones doing the actual job. Ohno believed that the collective solution generated by the shop floor workers was the key to the entire process, which leads to success in the Toyota System. Ohno felt so relieved to see that the assistant manager was able to lead the shop floor to an effective solution, the shop floor would have experienced a disaster otherwise.
+
+Ohno believed that the fundamental goal of continuous improvement was to make work easier for employees. Therefore it is the responsibly of the management to estab- lish effective methods and provide help to their workers, so that their jobs can be simplified. The assistant manager had that deeply ingrained in him through his experience with Ohno. I am still amazed by how dedicated Ohno was to inspiring workers to draw their own answers. I am going to elaborate on that by using examples in the next chapter.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+One can land on an incredible idea when pushed over the edge, however only pushing someone over the edge is not always a guarantee. It should be done by not only pushing workers through a hardship, but also by providing guidance whenever it is necessary. The goal is to inspire our workers so that they will find great joy in meeting our mutual expectations.
+
+REVERSE YOUR THINKING PROCESS
+
+STOP MOTHERING YOUR WORKERS
+
+The motorization of society intensified around the year 1965. Toyota launched a project that sought a reduction in the total cost for updating a specific line of cars by 10 thousand dollars. It generally cost an average of 10 mil- lion dollars to do so at the time. The project manager, Mr. G presented a plan to Ohno with a budget of less than 10 million dollars. Mr. G was confident that his plan would be approved by Ohno since it was well under the average cost and all other arrangements were already made. Ohno glanced at the plan and said,
+
+“This is one zero too many.”
+
+He did not say anything more, or give Mr. G any suggestions as to how to pull it off. Mr. G became completely lost as to what to do. If it was one zero too many, he had to create a plan under 1 million dollars. Ohno did not give any clues to Mr. G. That was Ohno’s way: to not give away everything and make his workers think by themselves.
+
+When I was involved in continuous improvement activities, Ohno would often tell me to remove wasté from a certain process, but never told me how to do it. If I did not have a solution even after serious brainstorming, I generally managed to receive some advice from Ohno, but noth- ing substantial that could lead to a solution. Ohno’s way was quite time-consuming and required a great deal of patience on the side of management. However, Ohno acted on his belief that motivating workers to think on their own was the best solution. Ohno used to scold a certain manger who always spoon-fed his workers by giving out answers too easily.
+
+“You are simply acting like a mom for your workers. That's the main reason why they take a long time to grow,” Ohno said.
+
+Reducing the cost from 10 million dollars to only 1 million dollars was an extremely challenging task, just as Mr. G thought. He reflected back on what Ohno had taught him in the past to drawa solution. Ohno used to say,
+
+“Continuous improvement is all about the fine balance between craftiness and money. Advancement can be achieved by simply spending more money, however continuous improvement requires intelligence and craftiness. If too much money is spent on aproject we will cease to apply our craftiness to formulate a solution.”
+
+I cannot agree with this more. There are many ways to make improvements in a process. The shop floor may decide to simply spend more money to yield an improvement, or focus on improving the process itself without spending any money. If the latter can draw the same result as the former it would simply mean a waste of money. Therefore, it is advised that we first think of a solution that does not require money.
+
+Instead of saying, “Purchasing more machines can solve the problem,” we should ask ourselves, “How can we do this without increasing machines?” This is how workers can be inspired to devote their intelligence and craftiness to a solution. With this in mind, Mr. G prepared a new plan from scratch.
+
+EXTREMELY DIFFICULT CHALLENGES CAN LEAD TO GROWTH
+
+No matter how much Mr. G had been trained by Ohno, it was not an easy task and the plan was put onahold for a while. However, Mr. G kept on thinking. It is human nature to push out toward new ideas when we feel lost. Mr. G continued to received some advice from Ohno and finally reached a point where he thought his plan could possibly work. His plan called for rearranging the shop floor layout with the help of available workers.
+
+The factory was completely remodeled and the production cost was significantly reduced, mainly by changing the locations of conveyor belt production lines and running wires underground in conduits.
+
+This achievement became a precious experience for every worker on the shop floor. Everyone learned the true way of achieving continuous improvement; only by full participation from the shop floor workers so that their new ideas could be tested in practice, to draw the most effective solutions. Everyone also appreciated Ohno, who challenged them on their craftiness to make it happen under such a limited budget.
+
+Mr. H wasa project leader in a Toyota-affiliated company that supplied Toyota Motors. He was considering building an additional facility to run his project in. Ohno happened to learn Mr. H’s intention and told him,
+
+“Building a new facility brings a new array of fixed costs to your company.”
+
+The project faced a risk of being called off due to the high cost of building a new facility. However, Mr. H came up with a solution to launch the project without having to build a new facility for it. Ohno kept giving Mr. H new demands as the project progressed. Ohno kept saying,
+
+“The amount of equipment investment is too high.”
+
+“Do not spend so much money on Automation.”
+
+“Do not hire any more workers, to minimize the labor cost.”
+
+Ohno demanded nothing that was easy to achieve. Even for those as experienced as Mr. H was, giving up was always an easy way out. However, Mr. H chose to devote himself to achieving continuous improvement by applying the intelligence and craftiness of the shop floor. As he kept trying he began to witness gradual, yet steady, increases in productivity and profit.
+
+It was everyone’s commitment to meeting Ohno’s hard-to-achieve demands that led to various successes of the company in continuous improvement, productivity, and competitiveness. Ohno’s unique attitude towards work, and what he used to tell his workers, will always be remembered in an appreciative manner by those who had a
+chance to work closely with him.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+Struggling to overcome a hard challenge by utilizing ones craftiness and suggesting new ideas eventually leads to an ability to think on your own. It is good to give yourself difficult challenges, such as limiting a budget, labor and production time. This will change the way you approach a problem and enhances your ability to implement the most effective continuous improvement solutions.
+
+MOTIVATING PEOPLE REQUIRES SWAYING THEIR EMOTIONS, HOWEVER IT COMES WITH MANY DIFFICULTIES
+
+SHOW YOUR COMMITMENT
+
+Executive managers from an outside company once visited the Toyota factory. The company was not affiliated with Toyota in any way but was determined to implement the Toyota System into its production to survive tough market competition after the Oil Shock of the 1970's. At the time, Ohno was called the “god of the shop floor.” Executive managers felt extremely honored by being guided by Ohno on his shop floor and being able to learn from him in person.
+
+During the tour Ohno stopped at a process line and started yelling at the production supervisor loudly. “I have told you so many times before but you never seem to understand. You are still creating waste because you have too many workers under you. Get rid of some workers! ” he said.
+
+Executive managers were shocked to witness the whole scene as Ohno turned into a completely different person. Ohno’s yelling was echoing all over the factory and he was about ready to throw components at the supervisor. The reason for his anger was because the supervisor was instructing workers to overproduce. Even worse, the stock was excessively stored in a location where it was not supposed to be.
+
+When it came to overproduction Ohno never allowed it, as he believed that overproduction was the biggest and most harmful waste. For this reason, he immediately ordered the supervisor to eliminate some of his workers. Even though Toyota had been implementing its stringent ways of production, and Ohno had devoted his career to
+teaching the adverse effects of overproduction, some production managers still lacked understanding and had a tendency to still rely on overproduction.
+
+The tour participants learned that facilitating the principles of the Toyota System in every single worker was extremely challenging and required a great deal of passion and commitment to its implementation, as Ohno had clearly demonstrated. After the tour the company began overhauling their production system while continuing to receive instructions from Ohno, as well as other Toyota affiliates.
+
+As the company was accustomed to a mass production system, it was extremely difficult for the company to shift towards the Toyota System. Even when the Toyota System enabled the production of 120 items they were only allowed to produce 80 items, given that only 80 items were demanded by the market. Then, they had to use their craftiness to lower the production cost as much as possible for those 80 items.
+
+Additionally, the company had a strong labor union that criticized them, claiming that the Toyota System was causing unreasonable labor enforcement for its members. Executive managers emulated Ohno’s commitment to the process and successfully overcame the resistance by persuading the labor union that the Toyota System was the only way to ensure the survival of their company.
+
+STOP PRODUCTION AND GO PLAY INSTEAD
+
+Company A was a supplier of Toyota and suffered from alow volume of sales and new business after the Oil Shock had broken out. They were also suffering from excessive inventories as the Toyota Production System was not fully implemented into their production mechanism. It was to a point where they might as well stop production altogether for a while and let the inventories run out completely.
+
+The top management of Company A finally decided that they would become fully commit to the Toyota Production System and asked for Ohno’s help. Ohno was glad to provide his assistance and said,
+
+“Follow the Kanbans that are given by Toyota. Make sure that your factory produces only the quantities that are instructed by the Kanbans from now on and stop producing unnecessary items.”
+
+“If only the quantities indicated by Kanbans were to be produced, my workers would finish production by 2 or 3 o'clock in the afternoon and will be left with nothing to do for the rest of the day. I cannot lay off my workers so easily. What shouldItell them to do with the spare time?” the management asked Ohno.
+
+Ohno simply replied, “Just stop production there and let your workers play around to kill time.”
+
+It would have been against the work ethic of full-time workers to just pass time on the shop floor, as they received salaries in exchange for putting enough hours in each day. Instead, the management decided to instruct workers to work on continuous improvement activities in their spare time. Each worker was given a lead on their own improvement ideas to achieve much bigger goals at the end. Asa result, machinery maintenances and production line management began to see some improvements, which helped the company survive the tough times since the Oil Shock.
+
+At first it was difficult for the shop floor workers to refrain from production when it was not needed. However, they were able to learn about the waste in overproduction by patiently carrying out continuous improvement activities, which also provided them with a feeling of reward for every positive result.
+
+Harsh measures, such as sometimes needed in order
+the one in this story, were to establish the Toyota System firmly in place so that each worker on the shop floor felt like they owned every part of it.
+
+REASONING BEHIND THE TOYOTA SYSTEM
+
+It is common sense to say that only saleable items should be produced at all times. However, we often underestimate the challenge of doing so in practice. It is Toyota’s way to give workers rough treatment and put them over the edge so that they will learn to overcome this challenge.
